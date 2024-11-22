@@ -1,7 +1,7 @@
 # DouZero_For_Happy_DouDiZhu: 将DouZero用于欢乐斗地主实战
 <img width="500" src="https://raw.githubusercontent.com/kwai/DouZero/main/imgs/douzero_logo.jpg" alt="Logo" />
 
-*   本项目基于[DouZero](https://github.com/kwai/DouZero)
+*   本项目基于[DouZero](https://github.com/kwai/DouZero)与相关链接中的作者大大。主要是为了完成对欢乐斗地主游戏的新版本适配。Readme文档之后会改
 *   环境配置请移步项目DouZero
 *   模型默认为WP，更换模型请修改start.py中的模型路径
 *   运行main.py即可
